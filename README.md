@@ -103,7 +103,7 @@ Ao fim de uma execução bem sucedida (todos os testes passaram) é possível fa
 - [@aretw0](https://github.com/aretw0) - Arthur Aleksandro
 - [@jV1ct0r](https://github.com/jV1ct0r) - João Victor
 - [@Telemaco98](https://github.com/Telemaco98) - Shirley Ohara
-- [@RuanBahia](https://github.com/RuanBahia) - Ruan Bahia
+- [@ruanmed](https://github.com/ruanmed) - Ruan Bahia
 - [@jcrbsa](https://github.com/jcrbsa) - Richardson Bruno
 
 # License :warning:
