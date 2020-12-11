@@ -30,7 +30,7 @@ mvn archetype:generate \
 -DartifactId=testingtools_ga -DarchetypeArtifactId=maven-archetype-quickstart \ -DarchetypeVersion=1.4 -DinteractiveMode=false
 ```
 
-## 2. Configuração 
+# Configuração 
 Configurando o repositório para usar Github Actions
 
 Em seu repositório clique na aba "`actions`":
@@ -53,7 +53,7 @@ Preencha o editor de texto com o conteúdo abaixo respeitando a indentação mos
 
 [![Commit](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/04_step_10_pag.png)]()
 
-# 3. Execução 
+# Execução 
 
 Github Actions em ação ( Acompanhando o seu workflow )
 
