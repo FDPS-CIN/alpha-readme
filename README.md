@@ -35,23 +35,27 @@ Configurando o repositório para usar Github Actions
 
 Em seu repositório clique na aba "`actions`":
 
-[![Aba Actions](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/00_step_06_pag.png)]()
+[![Aba Actions](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/images_updated/1%20-%20actions.png)]()
 
 Sugestões aparecerão baseadas no projeto:
 
-[![Sugestões](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/01_step_07_pag.png)]()
+[![Sugestões](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/images_updated/2%20-%20get_start.png)]()
 
 Na sugestão ‘Java with Maven’ clique em  "`set up this workflow`":
 
-[![workflow](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/02_step_08_pag.png)]()
+[![workflow](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/images_updated/3%20-%20java_with_maven.png)]())]()
 
 Aparecerá este editor de texto abaixo:
 
-[![Sugestões](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/03_step_09_pag.png)]()
+[![Sugestões](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/images_updated/4%20-%20editing_maven.yml.png)]()
 
-Preencha o editor de texto com o conteúdo abaixo respeitando a indentação mostrada. Após isso clique no botão para fazer o commit "`start commit`":
+Preencha o editor de texto com o conteúdo abaixo respeitando a indentação mostrada. 
 
-[![Commit](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/04_step_10_pag.png)]()
+[![Prenchendo o Maven](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/images_updated/5%20-%20preenchendo_maven.yml.png)]()
+
+Após isso clique no botão para fazer o commit "`start commit`":
+
+[![Commit](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/images_updated/6%20-%20start_commit.png)]()
 
 # Execução 
 
@@ -59,25 +63,23 @@ Github Actions em ação ( Acompanhando o seu workflow )
 
 Agora na aba "`Actions`" será possível acompanhar as execuções dos workflows do repositório:
 
-[![Follow](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/05_step_12_pag.png)]()
+[![Follow](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/images_updated/7%20-%20acompanhamento_dos_workflows.png)]()
 
 Cada execução será acionada automaticamente a partir de eventos que definimos no arquivo do workflow (push e pull request). Nesse caso o evento foi um push do commit que fizemos do novo arquivo (maven.yml). Com certeza esta é a primeira execução de qualquer repositório que passe a usar o GA.
 
 Clicando na execução em andamento do workflow que adicionados temos esta página:
 
-[![Follow](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/06_step_13_pag.png)]() 
+[![Follow](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/images_updated/8%20-%20workflow_em_andamento.png)]() 
 
 Na lateral esquerda clicando em build (nome do job) podemos ver sua execução de forma mais detalhada
 
-[![Follow](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/07A_step_14_pag.png)]() 
+[![Follow](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/images_updated/9%20-%20execu%C3%A7%C3%A3o_detalhada.png)]()
 
-[![Follow](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/07B_step_14_pag.png)]()
-
-[![Follow](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/07C_step_14_pag.png)]()
+[![Follow](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/images_updated/10%20-%20execu%C3%A7%C3%A3o_detalhada.png)]() 
 
 Ao fim de uma execução bem sucedida (todos os testes passaram) é possível fazer download do artefato (.jar) zipado.
 
-[![Follow](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/08C_step_15_pag.png)]()
+[![Follow](https://raw.githubusercontent.com/FDPS-CIN/images-readme/master/images_updated/11%20-%20fim_da_execucao.png)]()
 
 # Tecnologias
 
