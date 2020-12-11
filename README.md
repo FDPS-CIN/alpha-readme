@@ -5,9 +5,9 @@
 
 # Tópicos
   - [Introdução](README.md#introdução)
-  - [Projeto e Repositório](README.md#1.-projeto-e-repositório)
-  - [Configuração](README.md#2.-configuração)
-  - [Execução](README.md#3.-execução)
+  - [Projeto e Repositório](README.md#projeto-e-repositório)
+  - [Configuração](README.md#configuração)
+  - [Execução](README.md#execução)
   - [Tecnologias](README.md#tecnologias)
   - [Autores](README.md#autores)
   - [Referência](README.md#referências)
